@@ -1,3 +1,6 @@
+# DEPRECATED
+This project has been moved to https://github.com/HorizenLabs/zkMastermind.  
+
 # zk-mastermind
 
 zk-mastermind is an implementation of the popular Mastermind game using zero-knowledge proofs for verification.
